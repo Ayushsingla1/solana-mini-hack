@@ -16,7 +16,6 @@ const Homepage = () => {
                 </p>
             </header>
 
-            {/* Why We Built This */}
             <section className="mb-20 text-center">
                 <h2 className="text-3xl font-bold mb-3 text-white">🚧 The Problem</h2>
                 <p className="text-lg text-gray-400 max-w-2xl mx-auto">
@@ -26,7 +25,6 @@ const Homepage = () => {
                 </p>
             </section>
 
-            {/* Sender Experience */}
             <section className="mb-20">
                 <h2 className="text-3xl font-bold mb-6 text-teal-300 text-center">
                     ✉️ For Senders
@@ -42,7 +40,6 @@ const Homepage = () => {
                 </div>
             </section>
 
-            {/* Receiver Experience */}
             <section className="mb-20">
                 <h2 className="text-3xl font-bold mb-6 text-teal-300 text-center">
                     💌 For Recipients
